@@ -8,11 +8,19 @@ Windows_screen = pygame.display.set_mode((800,800))
 
 snake_size = pygame.Surface((20,20))
 fruit_size = pygame.Surface((20,20))
+
 fruit_x = 200
 fruit_y = 200
+
 snake_x = 220
 snake_y = 220
+
 score = 0 
+dx = 0 
+dy = 0
+
+clock = pygame.time.Clock()
+
 run = True
 
 while run:
@@ -32,14 +40,25 @@ while run:
         if event.type == pygame.KEYDOWN:
             
             if event.key == pygame.K_RIGHT:
-                snake_x += 20
+                dx = 20
+                dy = 0
             if event.key == pygame.K_LEFT:
-                        snake_x -= 20
+                dx = -20
+                dy = 0
             if event.key == pygame.K_UP:
-                        snake_y -= 20
-            
+                dy = -20
+                dx = 0
             if event.key == pygame.K_DOWN:
-                    snake_y += 20
+                 dy = +20
+                 dx = 0
+
+    snake_x += dx
+    snake_y += dy
+
     Windows_screen.blit(snake_size,(snake_x,snake_y))
     Windows_screen.blit(fruit_size,(fruit_x,fruit_y))
+
     pygame.display.flip()
+    clock.tick(10)
+    
+pygame.quit()
