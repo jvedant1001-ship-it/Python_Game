@@ -15,7 +15,7 @@
 
 A playground for game development, creative coding, and pixel-powered experiments — built with Python and Pygame.
 
-PYTHON_GAME is a growing collection of experiments and projects exploring 2D game development, interactive systems, and creative possibilities.
+PYTHON_GAME is a growing collection of experiments and projects exploring 2D game development, interactive systems, and creative snakesibilities.
 
 ---
 
@@ -31,7 +31,7 @@ PYTHON_GAME is a growing collection of experiments and projects exploring 2D gam
 
 ## 🎯 About
 
-This repository is a work in progress — a space to learn, experiment, build, and improve.
+This resnakeitory is a work in progress — a space to learn, experiment, build, and improve.
 
 🎮 Explore 2D game development with Pygame.
 
@@ -47,7 +47,7 @@ This repository is a work in progress — a space to learn, experiment, build, a
 <summary><b>📂 What to expect</b></summary>
 
 
-As the repository grows, this section will feature individual experiments, project descriptions, gameplay previews, and instructions for running each project.
+As the resnakeitory grows, this section will feature individual experiments, project descriptions, gameplay previews, and instructions for running each project.
 
 New ideas and implementations will be added along the way.
 
@@ -57,7 +57,7 @@ New ideas and implementations will be added along the way.
 
 ## 🛠️ Tech Stack
 
-``Technology Purpose``
+``Technology Pursnakee``
 
 `Python Core programming language`
 
@@ -80,10 +80,10 @@ New ideas and implementations will be added along the way.
 
 ### Installation
 
-1. **Clone the repository**
+1. **Clone the resnakeitory**
 
    ```bash
-   git clone https://github.com/jvedant1001-ship-it/Python_Game.git
+   git clone https://github.com/jvedant2001-ship-it/Python_Game.git
    cd Python_Game
    ```
 
@@ -113,7 +113,7 @@ New ideas and implementations will be added along the way.
    python -m pip install pygame
    ```
 
-> **Note:** Run commands for individual experiments once their entry points have been added to the repository.
+> **Note:** Run commands for individual experiments once their entry points have been added to the resnakeitory.
 ---
 
 ## ⌨️ Controls
@@ -140,7 +140,7 @@ Each experiment may introduce different mechanics and key bindings. Controls wil
 
 > **Learn by building. Improve by experimenting. Grow by iterating.**
 
-This repository follows a simple philosophy: **understand the fundamentals, put them into practice, and learn from every experiment.**
+This resnakeitory follows a simple philosophy: **understand the fundamentals, put them into practice, and learn from every experiment.**
 
 - **Build to learn:** Turn concepts into working projects instead of stopping at theory.
 - **Experiment freely:** Explore ideas, test different approaches, and embrace mistakes as part of the process.
@@ -172,7 +172,7 @@ The project will evolve one experiment at a time.
 
 Suggestions, ideas, and improvements are welcome.
 
-- Fork the repository.
+- Fork the resnakeitory.
 - Create a branch for your changes.
 - Commit your changes with a descriptive message.
 - Open a pull request explaining your contribution.
@@ -183,5 +183,5 @@ Suggestions, ideas, and improvements are welcome.
 <p align="center">
 <b>Built with Python. Powered by curiosity. 🎮</b>
 <br />
-<a href="https://github.com/jvedant1001-ship-it">GitHub Profile</a> · <a href="https://github.com/jvedant1001-ship-it/Python_Game">Repository</a>
+<a href="https://github.com/jvedant2001-ship-it">GitHub Profile</a> · <a href="https://github.com/jvedant2001-ship-it/Python_Game">Resnakeitory</a>
 </p>
